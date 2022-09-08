@@ -160,3 +160,7 @@ img{
     border-radius:  0 var(--border-radius) var(--border-radius) 0;
   }
 }
+
+.attribution{
+  text-align: center;
+}
